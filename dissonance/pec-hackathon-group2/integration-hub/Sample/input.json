@@ -1,0 +1,15 @@
+{
+    "expand": "attributes",
+    "name": "my_username",
+    "first-name": "My",
+    "last-name": "Username",
+    "display-name": "My Username",
+    "email": "user@example.test",
+    "active": true,
+    "attributes": {
+        "link": {
+            "rel": "self"
+        },
+        "attributes": []
+    }
+}

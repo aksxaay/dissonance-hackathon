@@ -1,0 +1,29 @@
+
+.DemoComponent_DemoComponent {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(20,20,20,1.00);
+}
+.DemoComponent_DemoComponent .Frame14 {
+	position: absolute;
+	left: 41px;
+	top: 74px;
+}
+.DemoComponent_DemoComponent .Frame14 .CATEGORY {
+	font-weight: 700;
+}
+.DemoComponent_DemoComponent .Frame15 {
+	position: absolute;
+	left: 41px;
+	top: 169px;
+	background: rgba(253,228,0,1.00);
+}
+.DemoComponent_DemoComponent .Frame15 .CATEGORY_1 {
+	color: rgba(0,0,0,1.00);
+	font-weight: 700;
+}

@@ -1,0 +1,47 @@
+Cash
+A/R
+Inventory
+Other Current Assets
+Land
+Buildings and other depreciable assets
+Machinery & Equipment
+Furniture & Fixtures
+Capital Leases
+Accumulated Deprec (-)
+Employee Advances / Related Party Receivables
+Long Term A/R & N/R
+Investments
+Prepaids/Deferreds
+Net Intangible Assets
+Other Non-Current Assets
+Overdrafts
+CPLTD + CP Capital Leases
+Lines of Credit
+Accounts Payable-Trade
+Loans from Shareholders / Related Party Payables
+Accrued Expenses
+Other Current Liabilities
+Long Term Debt - Bank
+Capital Lease Obligations
+Other Non-Current Liabilities
+Subordinated Debt-Liab
+Minority Interest-Liab
+Capital Stock
+Paid In Capital
+Retained Earnings
+Treasury Stock (-)
+Accumulated OCI
+Subordinated Debt-Equity
+Revenue
+Cost of Sales
+General & Admin Expenses
+Depreciation Expense
+Amortization Expense
+Rent Expense
+Bad Debt Expense
+Officers Compensation Expense
+Salaries/Wages Expense
+Other Expenses per Books
+Rental Income
+Other Income
+Gain/(Loss) on Asset Sale

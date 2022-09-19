@@ -1,0 +1,857 @@
+
+.CombinationDemo_CombinationDemo {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(20,20,20,1.00);
+}
+.CombinationDemo_CombinationDemo .Frame6 {
+	position: absolute;
+	left: 209.3012939453125px;
+	top: 60.6px;
+	width: 46.319438335679095%;
+	height: 32.32px;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: space-between;
+	align-items: center;
+}
+.CombinationDemo_CombinationDemo .Frame6 .Frame1 {
+	position: relative;
+	flex: none;
+	width: 87.87px;
+	height: 32.32px;
+	display: flex;
+	padding-top: 8.08px;
+	padding-right: 8.08px;
+	padding-bottom: 8.08px;
+	padding-left: 8.08px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(0,97,253,1.00);
+	border-radius: 144.43px;
+}
+.CombinationDemo_CombinationDemo .Frame6 .Frame1 .CATEGORY {
+	position: relative;
+	flex: none;
+	margin-right: 10.1px;
+	width: 71.71px;
+	height: 16.16px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 14.14px;
+	font-weight: 700;
+	line-height: 16.5703125px;
+}
+.CombinationDemo_CombinationDemo .Frame6 .Frame8 {
+	position: relative;
+	flex: none;
+	width: 67.67px;
+	height: 32.32px;
+	display: flex;
+	padding-top: 8.08px;
+	padding-right: 8.08px;
+	padding-bottom: 8.08px;
+	padding-left: 8.08px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(0,97,253,1.00);
+	border-radius: 144.43px;
+}
+.CombinationDemo_CombinationDemo .Frame6 .Frame8 .NATION {
+	position: relative;
+	flex: none;
+	margin-right: 10.1px;
+	width: 51.51px;
+	height: 16.16px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 14.14px;
+	font-weight: 700;
+	line-height: 16.5703125px;
+}
+.CombinationDemo_CombinationDemo .Frame6 .Frame9 {
+	position: relative;
+	flex: none;
+	width: 68.68px;
+	height: 32.32px;
+	display: flex;
+	padding-top: 8.08px;
+	padding-right: 8.08px;
+	padding-bottom: 8.08px;
+	padding-left: 8.08px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(0,97,253,1.00);
+	border-radius: 144.43px;
+}
+.CombinationDemo_CombinationDemo .Frame6 .Frame9 .MOVIES {
+	position: relative;
+	flex: none;
+	margin-right: 10.1px;
+	width: 52.52px;
+	height: 16.16px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 14.14px;
+	font-weight: 700;
+	line-height: 16.5703125px;
+}
+.CombinationDemo_CombinationDemo .Frame6 .Frame10 {
+	position: relative;
+	flex: none;
+	width: 110.09px;
+	height: 32.32px;
+	display: flex;
+	padding-top: 8.08px;
+	padding-right: 8.08px;
+	padding-bottom: 8.08px;
+	padding-left: 8.08px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(0,97,253,1.00);
+	border-radius: 144.43px;
+}
+.CombinationDemo_CombinationDemo .Frame6 .Frame10 .SERIESMOVIE {
+	position: relative;
+	flex: none;
+	margin-right: 10.1px;
+	width: 93.93px;
+	height: 16.16px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 14.14px;
+	font-weight: 700;
+	line-height: 16.5703125px;
+}
+.CombinationDemo_CombinationDemo .Frame6 .Frame11 {
+	position: relative;
+	flex: none;
+	width: 78.78px;
+	height: 32.32px;
+	display: flex;
+	padding-top: 8.08px;
+	padding-right: 8.08px;
+	padding-bottom: 8.08px;
+	padding-left: 8.08px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(0,97,253,1.00);
+	border-radius: 144.43px;
+}
+.CombinationDemo_CombinationDemo .Frame6 .Frame11 .CINEMAS {
+	position: relative;
+	flex: none;
+	margin-right: 10.1px;
+	width: 62.62px;
+	height: 16.16px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 14.14px;
+	font-weight: 700;
+	line-height: 16.5703125px;
+}
+.CombinationDemo_CombinationDemo .Frame6 .Frame12 {
+	position: relative;
+	flex: none;
+	width: 126.25px;
+	height: 32.32px;
+	display: flex;
+	padding-top: 8.08px;
+	padding-right: 8.08px;
+	padding-bottom: 8.08px;
+	padding-left: 8.08px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(0,97,253,1.00);
+	border-radius: 144.43px;
+}
+.CombinationDemo_CombinationDemo .Frame6 .Frame12 .COMMINGSOON {
+	position: relative;
+	flex: none;
+	margin-right: 10.1px;
+	width: 110.09px;
+	height: 16.16px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 14.14px;
+	font-weight: 700;
+	line-height: 16.5703125px;
+}
+.CombinationDemo_CombinationDemo .Frame4 {
+	position: absolute;
+	right: 155.54px;
+	top: 125.24px;
+	width: 206.04px;
+	height: 452.48px;
+	background: rgba(47,47,47,1.00);
+}
+.CombinationDemo_CombinationDemo .Frame4 .image31 {
+	position: absolute;
+	left: 13.13px;
+	top: 8.08px;
+	width: 48.480000000000004px;
+	height: 59.59px;
+	object-fit: cover;
+	overflow: hidden;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.CombinationDemo_CombinationDemo .Frame4 .image35 {
+	position: absolute;
+	left: 12.120000000000001px;
+	top: 385.82px;
+	width: 48.480000000000004px;
+	height: 59.59px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.CombinationDemo_CombinationDemo .Frame4 .image23 {
+	position: absolute;
+	left: 12.120000000000001px;
+	top: 87.87px;
+	width: 48.480000000000004px;
+	height: 59.59px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.CombinationDemo_CombinationDemo .Frame4 .image33 {
+	position: absolute;
+	left: 11.11px;
+	top: 159.58px;
+	width: 48.480000000000004px;
+	height: 59.59px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.CombinationDemo_CombinationDemo .Frame4 .image34 {
+	position: absolute;
+	left: 12.120000000000001px;
+	top: 233.31px;
+	width: 48.480000000000004px;
+	height: 59.59px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.CombinationDemo_CombinationDemo .Frame4 .SonictheHedgehog2 {
+	position: absolute;
+	left: 81.81px;
+	top: 28.28px;
+	width: 110.09px;
+	height: 34.34px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 14.14px;
+	font-weight: 700;
+	line-height: 16.5703125px;
+}
+.CombinationDemo_CombinationDemo .Frame4 .MoonKnight {
+	position: absolute;
+	left: 74.74px;
+	top: 86.86px;
+	width: 120.19px;
+	height: 66.66px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 14.14px;
+	font-weight: 700;
+	line-height: 16.5703125px;
+}
+.CombinationDemo_CombinationDemo .Frame4 .SpiderManNoWayHome {
+	position: absolute;
+	left: 79.79px;
+	top: 173.72px;
+	width: 110.09px;
+	height: 34.34px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 14.14px;
+	font-weight: 700;
+	line-height: 16.5703125px;
+}
+.CombinationDemo_CombinationDemo .Frame4 .OnePiece {
+	position: absolute;
+	left: 84.84px;
+	top: 251.49px;
+	width: 110.09px;
+	height: 34.34px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 14.14px;
+	font-weight: 700;
+	line-height: 16.5703125px;
+}
+.CombinationDemo_CombinationDemo .Frame4 .AttackonTitan {
+	position: absolute;
+	left: 84.84px;
+	top: 328.25px;
+	width: 110.09px;
+	height: 34.34px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 14.14px;
+	font-weight: 700;
+	line-height: 16.5703125px;
+}
+.CombinationDemo_CombinationDemo .Frame4 .Batman {
+	position: absolute;
+	left: 84.84px;
+	top: 404px;
+	width: 110.09px;
+	height: 34.34px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 14.14px;
+	font-weight: 700;
+	line-height: 16.5703125px;
+}
+.CombinationDemo_CombinationDemo .Frame4 .image29 {
+	position: absolute;
+	left: 12.120000000000001px;
+	top: 310.07px;
+	width: 48.480000000000004px;
+	height: 59.59px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.CombinationDemo_CombinationDemo .Frame {
+	position: absolute;
+	left: 931.22px;
+	top: 66.66px;
+	width: 24.240000000000002px;
+	height: 24.240000000000002px;
+}
+.CombinationDemo_CombinationDemo .Frame .Vector {
+	position: absolute;
+	left: 3.1246875px;
+	top: 2.2725px;
+	width: 74.21468098958334%;
+	height: 84.375%;
+}
+.CombinationDemo_CombinationDemo .CAROUSEL {
+	position: absolute;
+	left: 59.59px;
+	top: 631.25px;
+	width: 182.81px;
+	height: 25.25px;
+	color: rgba(255,122,0,1.00);
+	font-family: Roboto;
+	font-size: 16.16px;
+	font-weight: 700;
+	line-height: 18.9375px;
+}
+.CombinationDemo_CombinationDemo .Carousel {
+	position: absolute;
+	left: 45.8469970703125px;
+	top: 687.8100000000001px;
+	width: 66.11111645628078%;
+	height: 357.54px;
+}
+.CombinationDemo_CombinationDemo ._Right {
+	position: absolute;
+	left: 925.16px;
+	top: -42.42px;
+	width: 36.36px;
+	height: 36.36px;
+}
+.CombinationDemo_CombinationDemo ._Right .Vector_1 {
+	position: absolute;
+	left: 3.40875px;
+	top: 3.40875px;
+	width: 81.25%;
+	height: 81.25%;
+}
+.CombinationDemo_CombinationDemo ._Left {
+	position: absolute;
+	left: 864.5600000000001px;
+	top: -42.42px;
+	width: 36.36px;
+	height: 36.36px;
+}
+.CombinationDemo_CombinationDemo ._Left .Vector_2 {
+	position: absolute;
+	left: 3.40875px;
+	top: 3.40875px;
+	width: 81.25%;
+	height: 81.25%;
+}
+.CombinationDemo_CombinationDemo .Carousel ._Item {
+	position: relative;
+	width: 196.95px;
+	height: 345.42px;
+}
+.CombinationDemo_CombinationDemo .Carousel ._Item .film_name {
+	position: absolute;
+	left: 0px;
+	top: 293.91px;
+	width: 196.95px;
+	height: 19.19px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 16.16px;
+	font-weight: 700;
+	line-height: 18.9375px;
+}
+.CombinationDemo_CombinationDemo .Carousel ._Item .Youtube {
+	position: absolute;
+	left: 0px;
+	top: 317.14px;
+	width: 135.34px;
+	height: 28.28px;
+	color: rgba(255,255,255,0.60);
+	font-family: Roboto;
+	font-size: 16.16px;
+	font-weight: 400;
+	line-height: 18.9375px;
+}
+.CombinationDemo_CombinationDemo .Carousel ._Item .abc {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 196.95px;
+	height: 276.74px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.CombinationDemo_CombinationDemo .LISTRIGHT {
+	position: absolute;
+	right: 153.52px;
+	top: 629.23px;
+	width: 209.07px;
+	height: 25.25px;
+	color: rgba(255,122,0,1.00);
+	font-family: Roboto;
+	font-size: 16.16px;
+	font-weight: 700;
+	line-height: 18.9375px;
+}
+.CombinationDemo_CombinationDemo .image30 {
+	position: absolute;
+	left: 153.4879443359375px;
+	top: 125.24px;
+	width: 63.055561664320905%;
+	height: 456.52px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.CombinationDemo_CombinationDemo .Rectangle23 {
+	position: absolute;
+	left: 156.477998046875px;
+	top: 284.82px;
+	width: 62.84722604020057%;
+	height: 296.94px;
+	background: linear-gradient(0deg, rgba(0,0,0,0.20), rgba(0,0,0,0.20)),linear-gradient(0deg, rgba(0,0,0,0.20), rgba(0,0,0,0.20)),linear-gradient(180deg, rgba(46, 46, 46, 0.30) 0.0%, rgba(0, 0, 0, 0.64) 100.0%);
+}
+.CombinationDemo_CombinationDemo ._Button {
+	position: absolute;
+	left: 174.73px;
+	top: 488.84000000000003px;
+	width: 165.64000000000001px;
+	height: 56.56px;
+	display: flex;
+	padding-top: 16.16px;
+	padding-right: 18.18px;
+	padding-bottom: 16.16px;
+	padding-left: 18.18px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(0,97,253,1.00);
+	border-radius: 14.14px;
+	border: none;
+}
+.CombinationDemo_CombinationDemo ._Button .ReviewNow {
+	position: relative;
+	width: 94.94px;
+	height: 17.17px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 16.16px;
+	font-weight: 700;
+	line-height: 16.16px;
+}
+.CombinationDemo_CombinationDemo ._Button .Frame_1 {
+	position: relative;
+	width: 24.240000000000002px;
+	height: 24.240000000000002px;
+}
+.CombinationDemo_CombinationDemo ._Button .Frame_1 .Vector_3 {
+	position: absolute;
+	left: 5.05px;
+	top: 5.05px;
+	width: 59.016927083333336%;
+	height: 54.166666666666664%;
+}
+.CombinationDemo_CombinationDemo .SonictheHedgehog2_1 {
+	position: absolute;
+	left: 174.73px;
+	top: 374.71px;
+	width: 425.21px;
+	height: 41.410000000000004px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 38.38px;
+	font-weight: 700;
+	line-height: 34.34px;
+}
+.CombinationDemo_CombinationDemo .Netflix {
+	position: absolute;
+	left: 174.73px;
+	top: 420.16px;
+	width: 425.21px;
+	height: 41.410000000000004px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 30.3px;
+	font-weight: 700;
+	line-height: 34.34px;
+}
+.CombinationDemo_CombinationDemo .task08 {
+	position: absolute;
+	left: 1280.68px;
+	top: 52.52px;
+	width: 185.84px;
+	height: 48.480000000000004px;
+	display: flex;
+	padding-top: 12.120000000000001px;
+	padding-right: 16.16px;
+	padding-bottom: 12.120000000000001px;
+	padding-left: 37.37px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(47,47,47,0.00);
+	border-radius: 12.120000000000001px;
+}
+.CombinationDemo_CombinationDemo .task08 .Group1 {
+	position: relative;
+	flex: none;
+	margin-right: 12.120000000000001px;
+	width: 24.240000000000002px;
+	height: 24.240000000000002px;
+}
+.CombinationDemo_CombinationDemo .task08 .Group1 .avt {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 24.240000000000002px;
+	height: 24.240000000000002px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 50%;
+	background-size: cover;
+}
+.CombinationDemo_CombinationDemo .task08 .Group1 .Ellipse2 {
+	position: absolute;
+	left: 18.18px;
+	top: 18.18px;
+	width: 6.0600000000000005px;
+	height: 6.0600000000000005px;
+	background: rgba(50,215,75,1.00);
+	border-radius: 50%;
+	border: 0.5px solid rgba(50.000000819563866,215.0000023841858,75.00000312924385,1);
+}
+.CombinationDemo_CombinationDemo .task08 .username {
+	position: relative;
+	flex: none;
+	margin-right: 12.120000000000001px;
+	width: 156.55px;
+	height: 16.16px;
+	color: rgba(235,235,245,0.60);
+	font-family: Roboto;
+	font-size: 14.14px;
+	font-weight: 400;
+	line-height: 16.5703125px;
+}
+.CombinationDemo_CombinationDemo .Group5 {
+	position: absolute;
+	left: 33.33px;
+	top: 52.52px;
+	width: 122.21000000000001px;
+	height: 52.52px;
+}
+.CombinationDemo_CombinationDemo .Group5 .ReviewFilm {
+	position: absolute;
+	left: 25.25px;
+	top: 2.02px;
+	width: 96.96000000000001px;
+	height: 50.5px;
+	-webkit-background-clip: text !important;
+	background-clip: text !important;
+	-webkit-text-fill-color: transparent !important;
+	background: linear-gradient(90deg, rgba(57, 119, 220, 0.80) 0.0%, rgba(188, 214, 255, 1.00) 89.5%);
+	font-family: Roboto;
+	font-size: 20.2px;
+	font-weight: 900;
+	line-height: 23.671875px;
+}
+.CombinationDemo_CombinationDemo .Group5 .mdigamepadcircle {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 19.8750048828125px;
+	height: 19.8750048828125px;
+}
+.CombinationDemo_CombinationDemo .Group5 .mdigamepadcircle .Vector_4 {
+	position: absolute;
+	left: 0.8280224609375px;
+	top: 0.8280224609375px;
+	width: 91.66645988933277%;
+	height: 91.66645988933277%;
+}
+.CombinationDemo_CombinationDemo .Rectangle49 {
+	position: absolute;
+	left: 2.02px;
+	top: 125.24px;
+	width: 123.22px;
+	height: 456.52px;
+	background: linear-gradient(0deg, rgba(0,0,0,0.20), rgba(0,0,0,0.20)),linear-gradient(0deg, rgba(46,46,46,1.00), rgba(46,46,46,1.00));
+}
+.CombinationDemo_CombinationDemo .BANNER250x750 {
+	position: absolute;
+	left: 34.34px;
+	top: 338.35px;
+	width: 58.58px;
+	height: 30.3px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(146,146,146,1.00);
+	font-family: Roboto;
+	font-size: 13.13px;
+	font-weight: 700;
+	line-height: 15.38671875px;
+}
+.CombinationDemo_CombinationDemo .Rectangle51 {
+	position: absolute;
+	right: 0px;
+	top: 125.24px;
+	width: 123.22px;
+	height: 456.52px;
+	background: linear-gradient(0deg, rgba(0,0,0,0.20), rgba(0,0,0,0.20)),linear-gradient(0deg, rgba(46,46,46,1.00), rgba(46,46,46,1.00));
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.CombinationDemo_CombinationDemo .BANNER250x750_1 {
+	position: absolute;
+	right: 32.32px;
+	top: 338.35px;
+	width: 58.58px;
+	height: 30.3px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(146,146,146,1.00);
+	font-family: Roboto;
+	font-size: 13.13px;
+	font-weight: 700;
+	line-height: 15.38671875px;
+}
+.CombinationDemo_CombinationDemo .Inputwithicon {
+	position: absolute;
+	left: 971.62px;
+	top: 60.6px;
+	width: 321.18px;
+	height: 36.36px;
+	display: flex;
+	padding-top: 10.1px;
+	padding-right: 10.1px;
+	padding-bottom: 10.1px;
+	padding-left: 10.1px;
+	box-sizing: border-box;
+	align-items: center;
+	background: rgba(47,47,47,1.00);
+	border-radius: 24.240000000000002px;
+}
+.CombinationDemo_CombinationDemo .Inputwithicon .Frame_2 {
+	position: relative;
+	flex: none;
+	margin-right: 8.08px;
+	width: 16.16px;
+	height: 16.16px;
+}
+.CombinationDemo_CombinationDemo .Inputwithicon .Frame_2 .Vector_5 {
+	position: absolute;
+	left: 1.50119140625px;
+	top: 1.50094482421875px;
+	width: 81.33544921875%;
+	height: 81.3385009765625%;
+}
+.CombinationDemo_CombinationDemo .Inputwithicon ._Input {
+	position: relative;
+	flex: none;
+	margin-right: 8.08px;
+	width: 266.64px;
+	height: 36.36px;
+	background: transparent;
+	border: none;
+	outline: none;
+	color: rgba(235,235,245,0.60);
+	font-family: Roboto;
+	font-size: 14.14px;
+	font-weight: 900;
+	line-height: 16.5703125px;
+}
+.CombinationDemo_CombinationDemo .Frame13 {
+	position: absolute;
+	left: 701.95px;
+	top: 272.7px;
+	width: 101px;
+	height: 101px;
+}
+.CombinationDemo_CombinationDemo .List {
+	position: absolute;
+	right: 19.19px;
+	top: 663.57px;
+	width: 343.4px;
+}
+.CombinationDemo_CombinationDemo .List ._Item_1 {
+	position: relative;
+	width: 343.4px;
+	height: 103.02px;
+	display: flex;
+	padding-top: 8.08px;
+	box-sizing: border-box;
+}
+.CombinationDemo_CombinationDemo .List ._Item_1 .Thumbnail {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 177.76px;
+	height: 94.94px;
+	display: flex;
+	flex-direction: column;
+	padding-right: 8.08px;
+	box-sizing: border-box;
+}
+.CombinationDemo_CombinationDemo .List ._Item_1 .Thumbnail .ThumbnailImages {
+	position: relative;
+	flex: none;
+	margin-bottom: 10.1px;
+	width: 169.68px;
+	height: 94.94px;
+	background: rgba(255,255,255,1.00);
+}
+.CombinationDemo_CombinationDemo .List ._Item_1 .Thumbnail .ThumbnailImages .ThumbnailImages_1 {
+	position: absolute;
+	margin-left: 0px;
+	margin-right: 0px;
+	width: 169.68px;
+	height: 94.94px;
+}
+.CombinationDemo_CombinationDemo .List ._Item_1 .Thumbnail .ThumbnailImages .ThumbnailImages_1 .img {
+	position: absolute;
+	margin-left: 0px;
+	margin-right: 0px;
+	width: 169.68px;
+	height: 94.94px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.CombinationDemo_CombinationDemo .List ._Item_1 .Thumbnail .ThumbnailImages .VideoTime {
+	position: absolute;
+	right: 4.04px;
+	bottom: 4.04px;
+	width: 33.33px;
+	height: 18.18px;
+	display: flex;
+	padding-top: 3.0300000000000002px;
+	padding-right: 4.04px;
+	padding-bottom: 3.0300000000000002px;
+	padding-left: 4.04px;
+	box-sizing: border-box;
+	background: rgba(0,0,0,1.00);
+}
+.CombinationDemo_CombinationDemo .List ._Item_1 .Thumbnail .ThumbnailImages .VideoTime .VideoTime_1 {
+	position: relative;
+	flex: none;
+	margin-right: 10.1px;
+	width: 25.25px;
+	height: 12.120000000000001px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 10.1px;
+	font-weight: 400;
+	line-height: 11.8359375px;
+}
+.CombinationDemo_CombinationDemo .List ._Item_1 .VideoText {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 171.7px;
+	height: 94.94px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 7.07px;
+	padding-bottom: 7.07px;
+	box-sizing: border-box;
+}
+.CombinationDemo_CombinationDemo .List ._Item_1 .VideoText .abc_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 171.7px;
+	height: 40.4px;
+	color: rgba(255,255,255,1.00);
+	font-family: Roboto;
+	font-size: 14.14px;
+	font-weight: 400;
+	line-height: 20.2px;
+}
+.CombinationDemo_CombinationDemo .List ._Item_1 .VideoText .ChannelDesc {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 171.7px;
+	height: 40.4px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 2.02px;
+	padding-bottom: 2.02px;
+	box-sizing: border-box;
+}
+.CombinationDemo_CombinationDemo .List ._Item_1 .VideoText .ChannelDesc .channelName {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 171.7px;
+	height: 18.18px;
+	display: flex;
+	box-sizing: border-box;
+}
+.CombinationDemo_CombinationDemo .List ._Item_1 .VideoText .ChannelDesc .channelName .JamesGouse {
+	position: relative;
+	flex: none;
+	margin-right: 10.1px;
+	width: 171.7px;
+	height: 18.18px;
+	color: rgba(170,170,170,1.00);
+	font-family: Roboto;
+	font-size: 12.120000000000001px;
+	font-weight: 400;
+	line-height: 18.18px;
+}
+.CombinationDemo_CombinationDemo .List ._Item_1 .VideoText .ChannelDesc .Channelviews {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 171.7px;
+	height: 18.18px;
+	display: flex;
+	box-sizing: border-box;
+}
+.CombinationDemo_CombinationDemo .List ._Item_1 .VideoText .ChannelDesc .Channelviews ._1Mviews3yearsago {
+	position: relative;
+	flex: none;
+	margin-right: 10.1px;
+	width: 171.7px;
+	height: 18.18px;
+	color: rgba(170,170,170,1.00);
+	font-family: Roboto;
+	font-size: 12.120000000000001px;
+	font-weight: 400;
+	line-height: 18.18px;
+}
